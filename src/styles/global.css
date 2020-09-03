@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;800&display=swap');
+:focus { outline: -webkit-focus-ring-color auto 0px; }
+p { margin: 0; }
+button { border: none; background: transparent; }
+ul { padding-inline-start: 0px !important; }
+a { text-decoration: none !important; }
+.ui.divider { margin: 9px 0; }

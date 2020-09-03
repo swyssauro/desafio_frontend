@@ -1,0 +1,4 @@
+.form-container { width: 50%; float: right; position: relative; }
+.display-4 { font-family: 'Cabin', sans-serif; }
+.svg-logo-user { width: 100%; height: 20vw; float: left; display: block; }
+.container-row { padding: 2vw 4vw; margin-block-start: 4vw; }

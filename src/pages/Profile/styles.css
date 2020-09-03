@@ -1,0 +1,10 @@
+.button-ff { border: none; background: transparent; padding: 0 20px; }
+.menu-a-list { color: rgba(3, 27, 78, 0.6); font-size: 15px; font-family: 'Poppins', sans-serif; font-weight: 400; }
+.p-second { color: #68769587; line-height: 15px; font-weight: 600; }
+.flex-lix { display: flex; justify-content: space-between; }
+.ui.secondary.vertical.pointing.menu { border-right-color: #e5e8ed; }
+.bg-light { background-color: transparent !important; }
+.title-perfil { color: #031b4e !important; font-size: 37px !important; }
+.list-li { list-style: none; background: #e5e8ed; border-radius: 5px; padding: 15px 22px; margin-block-start: 10px; }
+.ui.secondary.vertical.pointing.menu .active.item { border-color: #016aff; color: #016aff; }
+.ui.secondary.vertical.pointing.menu .item { border-bottom: none; border-right-style: solid; border-right-color: transparent; border-radius: 0!important; margin: 0 -2px 0 0; border-right-width: 2px; color: rgba(3, 27, 78, 0.6); }
